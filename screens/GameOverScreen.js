@@ -49,14 +49,14 @@ const styles = StyleSheet.create({
     height: "100%",
   },
   summaryText: {
-    fontFamily: "open-sans",
+    fontWeight:'bold',
     fontSize: 24,
     color: "#FFFFF0",
     textAlign: "center",
     marginBottom: 24,
   },
   heighlight: {
-    fontFamily: "open-sans-bold",
+    fontWeight: "bold",
     color: "red",
   },
 });

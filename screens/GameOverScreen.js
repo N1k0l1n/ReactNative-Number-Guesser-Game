@@ -61,6 +61,7 @@ export default function GameOverScreen({
 const styles = StyleSheet.create({
   screen: {
     flex: 1,
+    marginTop:24
   },
   rootContainer: {
     flex: 1,

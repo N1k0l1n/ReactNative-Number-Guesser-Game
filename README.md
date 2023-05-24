@@ -1,3 +1,8 @@
+![Capgfgfgfgfgfgfgfgfture](https://github.com/N1k0l1n/ReactNativeGame/assets/97979235/27415a8c-f5ba-4d8c-ad0c-2425e57d4948)
+![Capturdde](https://github.com/N1k0l1n/ReactNativeGame/assets/97979235/3e117338-7deb-494e-b389-f6a01f9a607b)
+![Capture](https://github.com/N1k0l1n/ReactNativeGame/assets/97979235/35a08397-1f12-4614-be5f-498604918808)
+![Captusdsre](https://github.com/N1k0l1n/ReactNativeGame/assets/97979235/a8d6b943-7bfb-4608-a288-54c7980c912d)
+![Captuyhgfre](https://github.com/N1k0l1n/ReactNativeGame/assets/97979235/1a566574-1c84-45e4-87d2-9dd2fb0b7803)
 # Number Guessing Game
 
 This is a simple number guessing game built with React Native. The game generates a random number between a specified range, and the player's task is to guess the correct number within a certain number of attempts.

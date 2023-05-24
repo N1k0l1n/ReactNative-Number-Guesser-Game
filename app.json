@@ -3,11 +3,11 @@
     "name": "NumberGuesser",
     "slug": "NumberGuesser",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/NumberGuesser.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/LoopBy-Tech.png",
+      "image": "./assets/cat.jpg",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
